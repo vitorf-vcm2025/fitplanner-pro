@@ -43,7 +43,7 @@ O sistema conta com armazenamento local estruturado e dinâmico, garantindo rapi
 
 ### Pré-requisitos
 
-Certifique-se de ter o Python instalado na sua máquina (preferencialmente versão 3.10 ou superior) e as dependências do ambiente configuradas.
+    Certifique-se de ter o Python instalado na sua máquina (preferencialmente versão 3.10 ou superior) e as dependências do ambiente configuradas.
 
 1. **Clonar o repositório:**
    ```bash
