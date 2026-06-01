@@ -1,0 +1,116 @@
+[
+    {
+        "nome": "Treino A - Peito e Triceps",
+        "foco": "Forca e hipertrofia",
+        "duracao": "55 min",
+        "exercicios": [
+            "Supino reto",
+            "Supino inclinado",
+            "Crucifixo",
+            "Triceps corda"
+        ]
+    },
+    {
+        "nome": "Treino B - Costas e Biceps",
+        "foco": "Puxada e estabilidade",
+        "duracao": "60 min",
+        "exercicios": [
+            "Puxada alta",
+            "Remada baixa",
+            "Remada curvada",
+            "Rosca direta"
+        ]
+    },
+    {
+        "nome": "Treino C - Pernas",
+        "foco": "Base, potencia e resistencia",
+        "duracao": "65 min",
+        "exercicios": [
+            "Agachamento",
+            "Leg press",
+            "Cadeira extensora",
+            "Mesa flexora"
+        ]
+    },
+    {
+        "nome": "perna",
+        "foco": "força",
+        "duracao": "30 min",
+        "exercicios": [
+            "leg",
+            "e agachamento"
+        ]
+    },
+    {
+        "nome": "mnmnmnm",
+        "foco": "mnmnmn",
+        "duracao": "mnmnm min",
+        "exercicios": [
+            "mnmnm"
+        ]
+    },
+    {
+        "nome": "perna",
+        "foco": "força",
+        "duracao": "30 min",
+        "exercicios": [
+            "leg e agachamento"
+        ]
+    },
+    {
+        "nome": "nbnbnbn",
+        "foco": "nbnbnbn",
+        "duracao": "nbnbnb min",
+        "exercicios": [
+            "nbnbnb"
+        ]
+    },
+    {
+        "nome": "nbnbnbn",
+        "foco": "nbnbnbnb",
+        "duracao": "nbnbnbn min",
+        "exercicios": [
+            "bnbnbn"
+        ]
+    },
+    {
+        "nome": "nvnvnvn",
+        "foco": "vnvnvnv",
+        "duracao": "vnvnvnv min",
+        "exercicios": [
+            "vnvnvnv"
+        ]
+    },
+    {
+        "nome": "nvnvnv",
+        "foco": "nvnvnv",
+        "duracao": "nvnvnv min",
+        "exercicios": [
+            "bvbvbv"
+        ]
+    },
+    {
+        "nome": "prprprpr",
+        "foco": "prprprpr",
+        "duracao": "bvbvbv min",
+        "exercicios": [
+            "vcvcvcv"
+        ]
+    },
+    {
+        "nome": "cxxcxc",
+        "foco": "cxcxcxc",
+        "duracao": "cxcxcxc min",
+        "exercicios": [
+            "cxcxc"
+        ]
+    },
+    {
+        "nome": "vcvcvc",
+        "foco": "vcvcvc",
+        "duracao": "vcvcvcv min",
+        "exercicios": [
+            "vcvcvcv"
+        ]
+    }
+]
