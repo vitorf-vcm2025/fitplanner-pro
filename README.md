@@ -3,8 +3,7 @@
 > O sistema definitivo de alta performance para Personal Trainers e consultorias fitness gerenciarem alunos, treinos, dietas e evolução de forma centralizada.
 
 <p align="center">
-  <img src="https://via.placeholder.com/1280x720.png?text=FitPlanner+PRO+Capa" alt="<img width="1376" height="768" alt="Gemini_Generated_Image_fhsnbxfhsnbxfhsn (1)" src="https://github.com/user-attachments/assets/4e54fddf-8eb0-4b39-98ea-a6a4526d557b" />
-" width="100%">
+  <img src="https://github.com/user-attachments/assets/4e54fddf-8eb0-4b39-98ea-a6a4526d557b" alt="FitPlanner PRO Banner" width="100%">
 </p>
 
 ---
